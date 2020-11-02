@@ -8,4 +8,4 @@ I hope that this will make it easier for biologists to know the average number o
 ## Where did you get the data?
 The dataset I collect is from the website of the university press of the University of Oxford, in the Nucleic Acids Research section. The published papers of database provide database's specific information.
 ## Data format
-The fileds include the database name, database description, database URL, publication DOI, publication date, accessibility, current location, and citation numbers. 
+The fileds include the database name(str), database description(str), database URL(str), publication DOI(str), publication date(int), accessibility(Boolean), current location(str), and citation numbers(int). 
