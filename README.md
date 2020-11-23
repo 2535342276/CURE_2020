@@ -9,3 +9,5 @@ I hope that this will make it easier for biologists to know the average number o
 The dataset I collect is from the Molecular Biology Database Collection, which is is an online resource listing key databases of value to the biological community. This Collection is intended to bring fellow scientists, attention to high-quality databases that are available throughout the world, rather than just be a lengthy listing of all available databases. The published papers of database provide database's specific information. https://academic.oup.com/nar/issue/28/1 I focuses on maybe year 2000 NAR databases issues.
 ## Data format
 The fields include the database name(str), database description(str), database URL(str), updated date(int), publication date(int), accessibility(int) and citation numbers(int). 
+## Data analysis
+https://colab.research.google.com/drive/1WDN5hZMPl7Op6fMcVJN2eVfuIf9Vghmw?usp=sharing
